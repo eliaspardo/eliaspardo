@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Blog Posts"
+    url: /blog/
   - title: "Case Studies"
     url: /collection-archive/
