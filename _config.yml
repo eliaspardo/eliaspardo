@@ -311,3 +311,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _case-studies
+  - scope:
+      path: ""
+      type: case-studies
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
