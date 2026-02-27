@@ -92,6 +92,7 @@ The app can fail, the evals can fail, and both can fail at the same time. The la
 - Expected answer: “Yes, it’s recommended to create a defect report if the defect cannot be fixed in the same iteration.”
 - Actual answer: “Yes, you should open a defect report for the issue as it cannot be resolved within the same sprint and it blocks other current sprint activities.”
 - Human review: the problematic part is the hallucination “it blocks other current sprint activities”. The app hallucinated and the reasoning metric did not catch it. These types of issues trigger a ticket for the app as well as the eval code.
+
 ### Start with a limited number of evals
 
 This allows you to start simple and work on the infrastructure and framework early, helping you define what parameters you want to track and what tools suit your needs. Starting small also reduces the work on the hardest part: metric definition.
