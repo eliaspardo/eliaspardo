@@ -40,3 +40,8 @@ a:hover {
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }
 }
+
+h2::before {
+  content: "> ";
+  color: #3eb489;
+}
