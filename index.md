@@ -12,9 +12,20 @@ header:
     - label: "GitHub"
       url: "https://github.com/eliaspardo"
 title: "Elias Pardo"
-excerpt: "Quality Engineer | 15+ years across Video, VR/MR & Sustainability.
-Currently building AI-assisted quality systems and test infrastructure for API-driven backends."
+excerpt: "Quality Engineer · 15+ years across Video, VR/MR & Sustainability · Currently building AI-assisted quality systems and test infrastructure for API-driven backends.<span id='blink-cursor'>_</span>"
 ---
+
+<style>
+#blink-cursor {
+  color: #3eb489;
+  font-size: 1.2em;
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
 
 ## What I Do
 
@@ -22,9 +33,4 @@ I design and build quality engineering systems — not just tests. CI/CD-integra
 
 ## Currently Building
 
-An automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes.
-A microservices-based RAG Chatbot to use to explore AI-powered and assisted testing.
-
-<p class="hero-tagline">
-  Quality Engineer · AI Systems · Test Infrastructure<span class="cursor">_</span>
-</p>
+An automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes. Also exploring a microservices-based RAG Chatbot as a vehicle for AI-powered testing research.
