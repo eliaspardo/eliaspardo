@@ -24,3 +24,7 @@ I design and build quality engineering systems — not just tests. CI/CD-integra
 
 An automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes.
 A microservices-based RAG Chatbot to use to explore AI-powered and assisted testing.
+
+<p class="hero-tagline">
+  Quality Engineer · AI Systems · Test Infrastructure<span class="cursor">_</span>
+</p>
