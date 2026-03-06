@@ -11,8 +11,10 @@ header:
       url: "/blog/"
     - label: "GitHub"
       url: "https://github.com/eliaspardo"
+    - title: "Resume"
+      url: /resume/
 title: "Elias Pardo"
-excerpt: "Quality Engineer<br>15+ years across Video, VR/MR & Sustainability<br>Currently building AI-assisted quality systems and test infrastructure for API-driven backends<span id='blink-cursor'>_</span>"
+excerpt: "Quality Engineer<br>15+ years defining what to test, how, and why it matters<br>Currently building AI-assisted quality systems and test infrastructure for API-driven backends<span id='blink-cursor'>_</span>"
 ---
 
 <style>
@@ -29,8 +31,12 @@ excerpt: "Quality Engineer<br>15+ years across Video, VR/MR & Sustainability<br>
 
 ## What I Do
 
-I design and build quality engineering systems — not just tests. CI/CD-integrated pipelines, evaluation frameworks for AI systems, contract testing, and the infrastructure that makes quality a first-class concern in software delivery.
+Focused on quality engineering systems: CI/CD-integrated pipelines, evaluation frameworks for AI systems, contract testing, and the infrastructure that allows teams to ship with more confidence.
 
-## Currently Building
+##  Recent Builds
 
-An automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes. Also exploring a microservices-based RAG Chatbot as a vehicle for AI-powered testing research.
+Designed and implemented an automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes. Currently working on a microservices-based RAG Chatbot as a vehicle for AI-powered testing research.
+
+## Open To
+
+Backend-focused roles where I own quality architecture — designing test infrastructure, CI/CD quality gates, and evaluation systems for API-driven backends. Small teams, high trust, low bureaucracy. I'd rather own test capabilities than test results.
